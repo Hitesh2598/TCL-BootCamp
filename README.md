@@ -45,3 +45,20 @@
 
  ![Screenshot 2023-12-08 001503](https://github.com/Hitesh2598/TCL-BootCamp/assets/108817818/933571f6-368f-463b-81f5-41bb94703458)
 
+
+### 4. Parse a timing report
+
+    
+  To dump startpoint, endpoint and slack
+  Create a TCL based program which will read input file (“timing.txt) and rearrange the data as per below format
+
+            Startpoint: in2, Endpoint: f1, Slack: -4.19
+
+            Startpoint: f1, Endpoint: f2, Slack: -0.09
+
+
+
+
+
+
+
